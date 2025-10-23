@@ -18,7 +18,7 @@ Users can upload PDF or text documents and ask grounded questions based on their
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/<your-username>/modiface-docqa.git
+git clone https://github.com/esbarbac/modiface-docqa.git
 cd modiface-docqa
 ```
 

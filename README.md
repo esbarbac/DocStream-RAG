@@ -1,4 +1,4 @@
-# ModiFace DocQA (Local Demo)
+# DocStream-RAG (Local Demo)
 
 This project implements a **Document Question Answering agent** using OpenAI models and LangChain.  
 Users can upload PDF or text documents and ask grounded questions based on their content.
